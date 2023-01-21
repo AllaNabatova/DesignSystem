@@ -1,0 +1,58 @@
+body {
+    font-family: Lato;
+}
+h1 {
+    font-weight: bold;
+}
+h2 {
+    font-weight: 400;
+}
+.container {
+    border: 1px dotted;
+    margin: 10px;
+    padding: 10px;
+} 
+footer {
+    margin: 10px;
+    padding: 5px;
+}
+.color-panel {
+    display: inline-block;
+    width: 32%;
+    padding: 5px;
+    text-align: center;
+}
+.purple {
+    background-color: #6D67E4;
+}
+.mint {
+    background-color: #46C2CB;
+}
+.yellow {
+    background-color: #F2F7A1;
+}
+.font-panel{
+    width: 45%;
+    display: inline-block;
+}
+.font-label {
+    font-size: 20px;
+}
+.lato {
+    font-family: Lato;
+}
+.sofia-sans {
+    font-family: 'Sofia Sans';
+}
+.raleway {
+    font-family: Raleway;
+}
+.regular {
+    font-style: normal;
+}
+.bold {
+    font-weight: 700;
+}
+.italic {
+    font-style: italic;
+}
